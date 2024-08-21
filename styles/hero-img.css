@@ -126,6 +126,7 @@ h4 {
     font-size: var(--size-5xl);
     max-width: 18ch;
     color: var(--clr-dark);
+    line-height: 1;
 }
 
 .img__menu-container {
